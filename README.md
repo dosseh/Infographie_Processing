@@ -9,7 +9,7 @@
 
 |Nom|Prénom|login|email|
 |--|--|--|--|
-| *KOUTO* | *Dosseh* | *dosseh* | *dossehkuto@yahoo.fr* |
+| *KOUTO* | *Dosseh* | *dosseh* | *dossehkouto@yahoo.fr* |
 
 
 ## Travail à réaliser
