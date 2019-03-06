@@ -1,5 +1,5 @@
 
-# Projet d'infographie
+# Projet d'infographie Modelisation de la salle A106
 
 - Année : M1 iWOCS
 - Matière: Infographie
