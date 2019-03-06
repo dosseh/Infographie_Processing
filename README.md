@@ -55,4 +55,4 @@ Le projet consiste à utiliser l'intégralité des éléments que nous avons év
 ## 
 ### KOUTO Dosseh
 ### M1 IWOCS
-### dossehkouto@yahoo.fr.fr
+### dossehkouto@yahoo.fr
