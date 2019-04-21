@@ -32,7 +32,7 @@ Le projet consiste à utiliser l'intégralité des éléments que nous avons év
 -  La touche RIGHT ou 'd' :  Le maintient de cette touche sert à allez de la droite. 
 - Le clic gauche :  Le maintient de ce clic tout en tournant légèrement la souris vers une direction sert à orienté la vue de la salle vers cette direction.
 
-		On peut  facilement exploré tout endroit de la salle maintenant.
+		On peut  facilement explorer tout endroit de la salle maintenant.
 		
   _Lumière_
   
